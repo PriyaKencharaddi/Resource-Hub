@@ -277,7 +277,7 @@ We welcome contributions! Here's how you can help:
 ## 📞 Support
 
 For support, questions, or feature requests:
-- Email: meghabakale5@gmail.com
+- Email: priyakencharaddi@gmail.com
 - GitHub Issues: [Create an issue](https://github.com/your-repo/issues)
 
 ## 🔄 Recent Updates
