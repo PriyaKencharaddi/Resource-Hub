@@ -278,7 +278,7 @@ We welcome contributions! Here's how you can help:
 
 For support, questions, or feature requests:
 - Email: priyakencharaddi@gmail.com
-- GitHub Issues: [Create an issue](https://github.com/your-repo/issues)
+  
 
 ## 🔄 Recent Updates
 
